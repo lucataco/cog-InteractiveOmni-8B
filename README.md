@@ -96,3 +96,9 @@ The build uses CUDA 12.1, Python 3.10, and installs dependencies from `requireme
 ## Acknowledgements
 
 InteractiveOmni is developed by the [SenseTime Future Vision Group](https://github.com/SenseTime-FVG). Please cite their work if you use this project in research.
+
+## License
+
+The code in this repository is licensed under the [Apache License 2.0](LICENSE).
+
+The model weights are not covered by this license. [sensenova/InteractiveOmni-8B](https://huggingface.co/sensenova/InteractiveOmni-8B) is released under the [MIT](https://github.com/SenseTime-FVG/InteractiveOmni/blob/main/LICENSE) license.
